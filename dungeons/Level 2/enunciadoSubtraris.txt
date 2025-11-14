@@ -1,0 +1,12 @@
+LEVEL 2 — SUBTRARIS, O QUE ARRANCA FORÇA
+
+Objetivo:
+Crie um programa em JavaScript capaz de subtrair dois valores numéricos.
+
+Regras deste desafio:
+1. Crie dois campos de entrada (input type="number") para que o usuário digite dois números.
+2. Adicione um botão que, ao ser clicado, realiza a subtração do primeiro número pelo segundo.
+3. Mostre o resultado abaixo dos inputs.
+4. A lógica deve estar no arquivo subtraris.js.
+5. O design pode ser adaptado pelo usuário, mas um CSS temático é fornecido.
+6. O usuário deve escrever todo o código manualmente, sem LLM.

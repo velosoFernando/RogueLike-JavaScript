@@ -25,7 +25,9 @@ Cada exercício representa uma nova fase no domínio da linguagem, desde operaç
 ## 📁 Estrutura de Pastas
 
 <pre>
-📂 <b>Desafio Somaris/</b>
+📂 <b>Dungeons/</b> // Pasta com os arquivos de desafios.
+│
+📂 <b>Desafio Somaris/</b> // Pasta com os arquivos do desafio.
 │
 ├── 📝 somaris.txt   → Enunciado e explicações do desafio  
 ├── 🌐 somaris.html  → Arquivo base para execução no navegador (quando necessário)  

@@ -1,0 +1,17 @@
+LEVEL 1 — SOMARIS, AQUELE QUE UNIFICA
+
+Objetivo:
+Crie um pequeno programa em JavaScript capaz de unir dois valores numéricos (somar).
+
+Regras deste desafio:
+1. Crie dois campos de entrada (input type="number") para que o usuário digite dois números.
+2. Adicione um botão que, ao ser clicado, realiza a soma desses números.
+3. Mostre o resultado abaixo dos inputs, dentro da própria página.
+4. A lógica deve estar no arquivo somaris.js.
+5. O design é livre, mas fornecemos um CSS temático caso deseje visualizar o layout.
+6. O usuário deve escrever TODO o código sozinho, sem uso de LLM. Caso utilize, deve reiniciar o desafio.
+
+Sua missão:
+Somaris é conhecido por unir forças. Aqui, você deve unir valores.
+
+Faça a soma funcionar!
