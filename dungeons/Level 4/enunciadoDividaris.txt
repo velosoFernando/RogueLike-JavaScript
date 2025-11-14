@@ -1,0 +1,19 @@
+LEVEL 4 — DIVIDARIS, O PARTIDOR DE DESTINOS
+
+Objetivo:
+Criar um programa em JavaScript capaz de dividir dois valores numéricos.
+
+Regras deste desafio:
+1. Crie dois campos de entrada (input type="number") para digitar os valores.
+2. Ao clicar no botão, divida o primeiro número pelo segundo.
+3. Se o usuário tentar dividir por zero, exiba uma mensagem especial: "Não é possível dividir por zero."
+4. O resultado deve aparecer logo abaixo dos inputs.
+5. Toda a lógica deve ser realizada no arquivo dividaris.js.
+6. O design é livre, mas um CSS temático opcional é fornecido.
+7. O usuário deve escrever todo o código manualmente, sem LLM. Caso utilize, deve reiniciar o desafio.
+
+História:
+Dividaris é o mestre que separa caminhos.  
+Ele corta destinos ao meio, escolhendo qual parte sobrevive.
+
+Para vencê-lo, você deve mostrar que é capaz de partir valores em porções exatas.

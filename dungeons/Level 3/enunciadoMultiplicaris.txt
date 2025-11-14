@@ -1,0 +1,18 @@
+LEVEL 3 — MULTIPLICARIS, O FORJADOR DE PODER
+
+Objetivo:
+Criar um programa em JavaScript capaz de multiplicar dois valores numéricos.
+
+Regras deste desafio:
+1. Crie dois inputs (type="number") para digitar os valores.
+2. Adicione um botão que, ao ser clicado, multiplica os valores.
+3. Mostre o resultado na tela logo abaixo.
+4. Toda a lógica deve estar no arquivo multiplicaris.js.
+5. O design pode ser adaptado, mas um CSS temático é fornecido.
+6. O usuário deve escrever o código manualmente, sem auxílio de LLM. Caso utilize, deve reiniciar o desafio.
+
+História:
+Multiplicaris é o ferreiro arcano que transforma pequenas chamas em grandes fogueiras,
+amplificando tudo o que toca. 
+
+Para derrotá-lo, prove sua habilidade de ampliar valores através da multiplicação.

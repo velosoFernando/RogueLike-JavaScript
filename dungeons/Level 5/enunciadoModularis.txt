@@ -1,0 +1,20 @@
+LEVEL 5 — MODULARIS, O QUE EXTRAI O RESTO DO MUNDO
+
+Objetivo:
+Criar um programa em JavaScript capaz de calcular o módulo (resto da divisão)
+entre dois valores numéricos usando o operador %.
+
+Regras deste desafio:
+1. Crie dois inputs type="number" para informar os valores.
+2. O botão deve calcular o módulo do primeiro número pelo segundo.
+3. Se o usuário tentar usar módulo com zero, exiba: "Não é possível calcular módulo com zero."
+4. O resultado deve aparecer logo abaixo dos inputs.
+5. Toda a lógica deve estar no arquivo modularis.js.
+6. O design pode ser personalizado, mas um CSS temático acompanha o desafio.
+7. O usuário deve escrever todo o código manualmente. Caso utilize LLM, deve reiniciar o desafio.
+
+História:
+Modularis busca sempre o que sobra, aquilo que resta após o conflito.
+Ele acredita que o resto revela a verdadeira essência.
+
+Derrote Modularis mostrando que controla o poder do resto.
