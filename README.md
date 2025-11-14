@@ -1,6 +1,10 @@
 <h1 align="center">🎮 RogueLike JavaScript 🧠</h1>
 
 <p align="center">
+  <img src="assets/roguelike-javascript.png" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
