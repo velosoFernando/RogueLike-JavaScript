@@ -1,0 +1,22 @@
+LEVEL 6 — EXPONENCIALIS, O AMPLIFICADOR ABSOLUTO
+
+Objetivo:
+Criar um programa em JavaScript capaz de elevar um número a uma potência
+utilizando o operador ** ou a função Math.pow().
+
+Regras deste desafio:
+1. Crie dois inputs type="number":
+   - o primeiro representa a base
+   - o segundo representa o expoente
+2. Ao clicar no botão, calcule base ** expoente.
+3. Mostre o resultado logo abaixo dos inputs.
+4. Toda a lógica deve estar no arquivo exponencialis.js.
+5. O design pode ser modificado, mas um CSS temático acompanha o desafio.
+6. O usuário deve escrever todo o código manualmente. Caso utilize LLM, deve reiniciar.
+
+História:
+Exponencialis é o senhor dos crescimentos impossíveis.
+Ele transforma faíscas em tempestades,
+e números pequenos em forças avassaladoras.
+
+Para superá-lo, você precisa dominar o poder da exponenciação.

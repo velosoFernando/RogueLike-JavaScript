@@ -1,0 +1,18 @@
+LEVEL 7 — INCREMENTARIS, O ACUMULADOR DE PASSOS
+
+Objetivo:
+Criar um programa em JavaScript capaz de incrementar um valor informado pelo usuário.
+
+Regras deste desafio:
+1. Crie um input type="number" onde o usuário informa um valor inicial.
+2. Crie um botão que, ao ser clicado, incrementa esse valor em +1 usando ++ ou (valor + 1).
+3. Exiba o novo valor na tela logo abaixo.
+4. Toda a lógica deve estar no arquivo incrementaris.js.
+5. O design pode ser personalizado, mas um CSS temático acompanha o desafio.
+6. O usuário deve escrever todo o código manualmente, sem LLM. Caso utilize, deve reiniciar.
+
+História:
+Incrementaris caminha incansavelmente, um passo de cada vez,
+aumentando sua força lentamente, porém continuamente.
+
+Para superá-lo, você deve dominar a arte dos pequenos avanços.
