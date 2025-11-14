@@ -1,1 +1,1 @@
-# RogueLike-JavaScript
+# RogueLike JavaScript
