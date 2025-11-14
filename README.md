@@ -1,4 +1,5 @@
 <h1 align="center">🎮 RogueLike JavaScript 🧠</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -12,18 +13,22 @@
 O **RogueLike JavaScript** é um método criado para facilitar o aprendizado e **fortalecer a lógica de programação em JavaScript**, por meio de **50 exercícios progressivos** — cada um com um nível de dificuldade entre **1️⃣ e 5️⃣0️⃣**.
 
 A proposta é simples: **evoluir como em um jogo**, vencendo um desafio por vez, sem atalhos ou consultas automáticas.  
+
 Cada exercício representa uma nova fase no domínio da linguagem, desde operações básicas até lógica complexa e manipulação de estruturas.
 
 ---
 
 ## 📁 Estrutura de Pastas
 
-📂 Desafio Somaris/
+<pre>
+📂 <b>Desafio Somaris/</b>
 │
-├── 📝 somaris.txt
-├── 🌐 somaris.html
-├── 💻 somaris.js
-└── 🎨 somaris.css
+├── 📝 somaris.txt   → Enunciado e explicações do desafio  
+├── 🌐 somaris.html  → Arquivo base para execução no navegador (quando necessário)  
+├── 💻 somaris.js    → Onde o código do exercício deve ser desenvolvido  
+└── 🎨 somaris.css   → Estilos opcionais para melhorar a visualização dos resultados  
+</pre>
+
 
 ---
 
@@ -45,9 +50,8 @@ Somente após completar todos os 50 exercícios o código pode ser publicado.
 5️⃣ Cada participante deve incluir **no final do seu código** um comentário com o link do repositório oficial: https://github.com/velosoFernando/RogueLike-JavaScript.git
 
 
-6️⃣ Ao finalizar o desafio, **solicite seu certificado** enviando uma mensagem pelo LinkedIn:
+6️⃣ Ao finalizar o desafio, comemore sua conquista com um post no LinkedIn marcando o criador do projeto! 🎉  
 👉 [Fernando Veloso](https://www.linkedin.com/in/fernando-veloso1995/)  
-E comemore sua conquista com um post no LinkedIn marcando o projeto! 🎉  
 
 ---
 
