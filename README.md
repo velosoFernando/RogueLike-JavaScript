@@ -20,6 +20,9 @@ A proposta é simples: **evoluir como em um jogo**, vencendo um desafio por vez,
 
 Cada exercício representa uma nova fase no domínio da linguagem, desde operações básicas até lógica complexa e manipulação de estruturas.
 
+Acompanhe a publicação de novos levels nesse repositório ou no meu LinkedIn:
+👉 [Fernando Veloso](https://www.linkedin.com/in/fernando-veloso1995/) 
+
 ---
 
 ## 📁 Estrutura de Pastas

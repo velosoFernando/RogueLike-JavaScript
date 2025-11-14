@@ -1,0 +1,25 @@
+LEVEL 10 — POSITIVUS, O ORÁCULO DOS NÚMEROS POSITIVOS
+
+Objetivo:
+Criar um programa em JavaScript capaz de verificar se um número é positivo,
+negativo ou igual a zero.
+
+Regras deste desafio:
+1. Crie um input type="number" para digitar o valor.
+2. Ao clicar no botão, verifique:
+   - Se o número é maior que 0 → "O número é positivo."
+   - Se o número é menor que 0 → "O número é negativo."
+   - Se for igual a 0 → "Zero é neutro."
+3. Mostre o resultado logo abaixo.
+4. Toda a lógica deve estar no arquivo positivus.js.
+5. O design é livre, mas um CSS temático acompanha o desafio.
+6. O usuário deve escrever todo o código manualmente. Caso utilize LLM, precisa reiniciar.
+
+História:
+Positivus enxerga destinos através dos sinais numéricos.
+Ele julga a energia dos viajantes:
+se brilham com positividade,
+se carregam sombras negativas,
+ou se permanecem imóveis no equilíbrio do zero.
+
+Derrote Positivus dominando os três sinais do destino.

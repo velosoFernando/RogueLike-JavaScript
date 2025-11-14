@@ -1,0 +1,19 @@
+LEVEL 9 — IMPARISPAR, O JULGADOR DE PAR OU ÍMPAR
+
+Objetivo:
+Criar um programa em JavaScript capaz de verificar se um número é par ou ímpar.
+
+Regras deste desafio:
+1. Crie um input type="number" para informar o número.
+2. Ao clicar no botão, verifique se o número é par ou ímpar usando o operador %.
+3. Mostre na tela: "É par" ou "É ímpar".
+4. Toda a lógica deve estar no arquivo paris.js.
+5. O design pode ser modificado, mas um CSS temático acompanha o desafio.
+6. O usuário deve escrever todo o código sozinho, sem LLM. Caso utilize, deve reiniciar.
+
+História:
+Paris é o juiz silencioso das estradas, aquele que divide viajantes em dois destinos:
+os pares, que seguem pela trilha iluminada,  
+e os ímpares, condenados à escuridão.
+
+Para derrotá-lo, prove que domina o julgamento do par e do ímpar.
