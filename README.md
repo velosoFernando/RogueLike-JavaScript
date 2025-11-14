@@ -28,7 +28,7 @@ Acompanhe a publicação de novos levels nesse repositório ou no meu LinkedIn:
 ## 📁 Estrutura de Pastas
 
 <pre>
-📂 <b>Dungeons/</b> // Pasta com os arquivos de desafios.
+📂 <b>Dungeons/</b> // Pasta com os desafios.
 │
 📂 <b>Desafio Somaris/</b> // Pasta com os arquivos do desafio.
 │
